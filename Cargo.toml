@@ -1,0 +1,10 @@
+[package]
+name = "toil"
+version = "0.1.0"
+edition = "2018"
+license = "MIT OR Apache-2.0"
+description = "task manager"
+repository = "https://github.com/frazerk/toil"
+readme = true
+
+[dependencies]
